@@ -29,7 +29,7 @@ Rozgrywka składa się z 3 poziomów stopniowo dodających dodatkowych mechanik 
 Do formie przeszkód ukazane są czarne dziury, które unieruchamiają postać gdy ta w nie wejdzie. Gracz może uwolnić postać niszcząc czarną dziurę przy pomocy lasera postaci, która nie została uwięziona. Gdy obydwie postaci zostaną złapane w czarne dziury gracz traci życia i poziom jest resetowany.
 W formie przeciwników okazane są UFO, które poruszają się w pętli na odpowiedniej osi. Są 2 rodzaje UFO, różowe i żółte, które w zależności od postaci, która się do nich zbliży są bardziej agresywne. Kontakt postaci z przeciwnikiem kończy się automatyczną utratą życia i resetem poziomu. Gracz jest w stanie zniszczyć przeciwnika przy pomocy lasera.
 
-Gra kończy się po utracie wszystkich żyć bądź w przypadku dotarcia do Finishu na wszystkich 3 poziomach.
+Gra kończy się po utracie wszystkich żyć, upłynięcia czasu bądź w przypadku dotarcia do Finishu na wszystkich 3 poziomach.
 
 ![screen4](/Screens/poziom1.JPG)
 ![screen5](/Screens/poziom2.JPG)
