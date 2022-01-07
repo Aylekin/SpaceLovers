@@ -20,9 +20,9 @@ Mają one za zadanie ukazać, jak zostały rozwiązane funkcjonalności i mechan
 Po włączeniu gry ukazuje się użytkownikowi proste menu główne z animowanym tłem. Do wyboru użytkownik ma 3 opcje: rozpocząć rozgrywkę, zobaczyć ustawienia jak i wyjście z gry.
 W ustawieniach znajdują się opcje głośności muzyki i efektów dźwiękowych. Można je wyciszyć bądź dostosować ich poziom przy pomocy suwaków.
 
-![screen1](/Screens/menu1.jpg)
-![screen2](/Screens/menu2.jpg)
-![screen3](/Screens/menu3.jpg)
+![screen1](/Screens/menu1.JPG)
+![screen2](/Screens/menu2.JPG)
+![screen3](/Screens/menu3.JPG)
 
 ### 3) Poziom I, II i III
 Rozgrywka składa się z 3 poziomów stopniowo dodających dodatkowych mechanik i przeciwników. Gracz steruje jednocześnie dwoma postaciami przy pomocy strzałek na klawiaturze. Postaci poruszają się względem siebie w formie odbicia lustrzanego. Celem gracza jest uciknięcie przeszkód i dotarcze na górę planszy do drzwi odpowiednio żółtą i różową postacią po odpowiedniej ich stronie. Przy pomocy przycisków Z i X gracz może odpowiednio wystrzelić laser z konkretnej postaci, która niszczy przeciwników i przeszkody.
@@ -31,6 +31,6 @@ W formie przeciwników okazane są UFO, które poruszają się w pętli na odpow
 
 Gra kończy się po utracie wszystkich żyć bądź w przypadku dotarcia do Finishu na wszystkich 3 poziomach.
 
-![screen4](/Screens/poziom1.jpg)
-![screen5](/Screens/poziom2.jpg)
-![screen6](/Screens/poziom3.jpg)
+![screen4](/Screens/poziom1.JPG)
+![screen5](/Screens/poziom2.JPG)
+![screen6](/Screens/poziom3.JPG)
